@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @darshil0805
-- 👀 I’m interested in Machine Learning and Entrepreneurship
-- 💞️ I’m looking to collaborate on Machine Learning based open source projects
+- 👀 I’m interested in Computer Vision and other applications of Deep Learning
 - 📫 You can out to me through Instagram: @darshilstagram and Whatsapp: +91 8128536843
 
 <!---
